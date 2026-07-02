@@ -1,0 +1,251 @@
+Age,Gender,Height_cm,Weight_kg,Activity_Level,Sleep_Hours,Water_Intake_L,Goal,Diet_Type,Daily_Calorie_Requirement
+58.0,Male,151.0,80.0,Light,5.6,3.6,Gain,Veg,2306
+46.0,Female,150.0,65.0,Active,6.2,1.5,Maintain,Veg,2064
+53.0,Female,190.0,91.0,Very Active,5.5,1.2,Gain,Non-Veg,3476
+60.0,Female,154.0,66.0,Very Active,8.1,1.6,Gain,Vegan,2207
+35.0,Male,163.0,85.0,Light,7.8,2.4,Gain,Jain,2636
+26.0,Female,155.0,51.0,Sedentary,5.3,1.6,Gain,Jain,1725
+,,171.0,59.0,Moderate,6.7,2.6,Gain,Vegan,2219
+40.0,Male,188.0,86.0,Active,7.2,4.3,Maintain,Non-Veg,3278
+48.0,Male,166.0,99.0,Light,9.1,3.6,Gain,Veg,2765
+,,171.0,73.0,Sedentary,4.9,3.2,Lose,Veg,1666
+48.0,Male,171.0,97.0,Light,7.2,3.3,Maintain,Jain,2558
+30.0,Male,184.0,81.0,Light,6.6,2.0,Lose,Veg,2484
+40.0,Female,181.0,106.0,Light,8.8,4.2,Lose,Jain,2299
+49.0,Male,162.0,82.0,Light,9.3,3.0,Gain,Veg,2490
+56.0,Male,165.0,96.0,Sedentary,9.2,3.0,Gain,Veg,2360
+,,179.0,85.0,Sedentary,4.5,3.2,Gain,Veg,2109
+37.0,Male,185.0,83.0,Sedentary,9.2,1.5,Lose,Veg,1868
+21.0,Male,190.0,99.0,Moderate,4.7,2.2,Lose,Veg,2920
+41.0,Male,177.0,61.0,Sedentary,6.0,4.1,Lose,Vegan,1520
+,,176.0,48.0,Light,8.2,2.2,Maintain,Non-Veg,1987
+32.0,Male,151.0,69.0,Active,6.1,4.0,Maintain,Vegan,2551
+34.0,Male,156.0,100.0,Light,8.1,2.1,Gain,Veg,3106
+60.0,Male,173.0,100.0,Sedentary,9.2,4.2,Gain,Vegan,2444
+60.0,Female,161.0,83.0,Active,7.2,1.0,Maintain,Non-Veg,2372
+,,171.0,110.0,Very Active,6.2,2.7,Lose,Vegan,3528
+30.0,Female,181.0,96.0,Light,5.2,3.4,Lose,Jain,2148
+51.0,Female,178.0,109.0,Active,8.7,2.9,Lose,Jain,2782
+33.0,Male,171.0,85.0,Very Active,4.9,1.5,Maintain,Non-Veg,3026
+19.0,Female,180.0,45.0,Moderate,6.0,2.4,Maintain,Non-Veg,2044
+40.0,Male,175.0,48.0,Sedentary,7.7,1.5,Maintain,Non-Veg,1552
+23.0,Female,151.0,81.0,Moderate,5.6,1.2,Gain,Veg,2126
+34.0,Female,160.0,59.0,Light,9.3,1.4,Lose,Vegan,1431
+40.0,Male,186.0,50.0,Moderate,7.2,3.3,Lose,Vegan,1998
+51.0,Female,189.0,106.0,Active,6.7,3.6,Maintain,Veg,3149
+38.0,Male,181.0,72.0,Moderate,8.5,2.2,Gain,Vegan,2883
+46.0,Male,155.0,82.0,Light,6.5,1.9,Gain,Vegan,2450
+30.0,Female,157.0,68.0,Light,5.6,2.7,Gain,Veg,2157
+36.0,Male,171.0,107.0,Sedentary,8.9,3.0,Gain,Jain,2499
+21.0,Male,159.0,83.0,Sedentary,9.5,1.4,Gain,Non-Veg,2068
+24.0,Male,190.0,72.0,Light,7.8,1.5,Lose,Veg,2478
+32.0,Male,190.0,70.0,Active,5.1,1.8,Lose,Vegan,2402
+43.0,Male,182.0,108.0,Active,4.9,2.7,Maintain,Vegan,3177
+54.0,Male,161.0,105.0,Very Active,7.8,4.2,Lose,Jain,3103
+36.0,Female,171.0,49.0,Active,7.2,1.9,Lose,Jain,1952
+46.0,Male,163.0,79.0,Very Active,5.2,2.0,Gain,Jain,3309
+25.0,Female,157.0,64.0,Active,9.2,2.0,Gain,Vegan,2603
+22.0,Female,176.0,88.0,Very Active,5.8,1.0,Gain,Vegan,3547
+38.0,Male,165.0,94.0,Light,8.8,2.4,Gain,Jain,2456
+55.0,Female,156.0,101.0,Sedentary,7.1,2.6,Gain,Non-Veg,2159
+52.0,Female,170.0,107.0,Very Active,4.7,1.2,Gain,Vegan,3552
+20.0,Female,153.0,81.0,Moderate,6.4,1.5,Gain,Jain,2649
+40.0,Female,179.0,77.0,Sedentary,9.0,2.6,Maintain,Non-Veg,1791
+40.0,Male,165.0,81.0,Very Active,6.3,2.0,Gain,Vegan,3580
+36.0,Male,188.0,90.0,Light,7.7,3.2,Gain,Non-Veg,2912
+44.0,Male,162.0,61.0,Very Active,8.9,2.3,Gain,Vegan,2974
+27.0,Male,175.0,91.0,Sedentary,8.5,1.0,Gain,Veg,2548
+53.0,Female,171.0,81.0,Sedentary,7.7,2.6,Gain,Vegan,2082
+41.0,Female,187.0,64.0,Active,7.8,3.9,Gain,Jain,2789
+59.0,Female,153.0,81.0,Moderate,5.4,1.4,Maintain,Veg,2248
+53.0,Male,187.0,72.0,Light,6.1,1.5,Gain,Veg,2540
+,,151.0,67.0,Moderate,4.8,3.6,Gain,Veg,2296
+60.0,Female,171.0,48.0,Sedentary,7.2,4.0,Maintain,Veg,1365
+38.0,Female,188.0,82.0,Active,7.0,2.5,Gain,Veg,3136
+40.0,Male,170.0,99.0,Moderate,7.8,2.3,Lose,Jain,2548
+39.0,Male,176.0,90.0,Active,8.8,3.5,Maintain,Vegan,3122
+54.0,Male,177.0,48.0,Light,9.1,3.9,Maintain,Veg,2510
+58.0,Male,155.0,72.0,Light,6.6,2.2,Maintain,Vegan,2421
+,,181.0,101.0,Active,7.2,3.6,Lose,Veg,2598
+,,158.0,77.0,Moderate,6.1,2.7,Gain,Veg,2745
+19.0,Female,154.0,85.0,Very Active,6.6,2.4,Gain,Jain,3257
+24.0,Male,171.0,96.0,Very Active,4.9,4.0,Gain,Vegan,4007
+59.0,Male,165.0,58.0,Light,5.8,1.6,Lose,Veg,1517
+57.0,Female,190.0,81.0,Light,7.2,2.6,Gain,Vegan,2488
+23.0,Female,179.0,50.0,Active,9.0,3.0,Lose,Vegan,2016
+20.0,Male,178.0,81.0,Very Active,7.1,1.6,Maintain,Vegan,3852
+34.0,Male,171.0,55.0,Very Active,7.8,4.2,Maintain,Jain,2762
+51.0,Male,177.0,110.0,Light,4.6,2.1,Lose,Vegan,2732
+51.0,Male,171.0,61.0,Very Active,6.4,1.6,Gain,Non-Veg,3015
+33.0,Female,180.0,69.0,Moderate,7.9,3.0,Maintain,Veg,2308
+48.0,Female,185.0,58.0,Very Active,8.8,2.0,Lose,Vegan,2237
+43.0,Female,165.0,94.0,Sedentary,6.4,1.1,Lose,Veg,1614
+23.0,Male,166.0,81.0,Light,7.2,3.5,Gain,Jain,2565
+56.0,Male,190.0,110.0,Very Active,5.7,2.7,Maintain,Veg,3824
+50.0,Male,174.0,105.0,Sedentary,7.7,4.4,Maintain,Veg,2271
+39.0,Male,179.0,81.0,Light,8.6,1.2,Maintain,Veg,2735
+59.0,Male,168.0,90.0,Sedentary,8.8,2.2,Lose,Vegan,1692
+35.0,Male,177.0,55.0,Active,7.5,3.9,Gain,Veg,2864
+40.0,Female,167.0,52.0,Light,7.2,2.4,Gain,Non-Veg,1743
+54.0,Male,188.0,64.0,Active,9.2,2.3,Lose,Non-Veg,2374
+34.0,Female,178.0,72.0,Very Active,5.9,4.2,Maintain,Non-Veg,2853
+40.0,Male,185.0,82.0,Moderate,8.8,2.7,Gain,Non-Veg,3061
+53.0,Male,189.0,81.0,Sedentary,6.0,4.5,Gain,Jain,2078
+53.0,Male,158.0,100.0,Very Active,9.1,1.2,Gain,Non-Veg,2982
+53.0,Female,158.0,83.0,Very Active,7.2,2.8,Lose,Non-Veg,2344
+54.0,Female,163.0,98.0,Very Active,7.7,2.7,Gain,Vegan,3279
+47.0,Male,171.0,63.0,Moderate,8.8,2.1,Maintain,Jain,2277
+42.0,Female,165.0,65.0,Light,9.2,3.5,Lose,Non-Veg,1731
+,,153.0,81.0,Active,7.5,3.9,Gain,Veg,3010
+53.0,Male,173.0,81.0,Sedentary,6.4,2.6,Gain,Vegan,2258
+27.0,Male,188.0,110.0,Active,7.0,1.2,Lose,Vegan,3400
+37.0,Female,182.0,110.0,Very Active,6.9,3.0,Gain,Veg,3594
+59.0,Male,153.0,106.0,Light,7.1,3.5,Maintain,Non-Veg,2374
+50.0,Female,153.0,62.0,Very Active,5.5,2.1,Gain,Jain,2514
+34.0,Female,162.0,76.0,Moderate,7.3,1.8,Maintain,Vegan,2234
+,,175.0,89.0,Light,6.0,2.0,Gain,Veg,2449
+57.0,Male,165.0,51.0,Very Active,5.6,1.8,Lose,Jain,2096
+48.0,Female,162.0,81.0,Moderate,5.9,1.2,Lose,Non-Veg,1903
+43.0,Female,161.0,82.0,Sedentary,4.5,3.0,Lose,Vegan,1440
+28.0,Female,166.0,68.0,Sedentary,8.2,3.8,Gain,Non-Veg,2000
+38.0,Male,150.0,78.0,Active,5.7,3.6,Maintain,Vegan,2644
+37.0,Male,190.0,82.0,Moderate,7.6,1.8,Lose,Jain,2533
+40.0,Male,183.0,102.0,Very Active,8.0,1.3,Gain,Veg,4107
+,,155.0,110.0,Active,8.5,2.6,Gain,Jain,3116
+40.0,Female,172.0,53.0,Very Active,9.5,4.3,Lose,Jain,2254
+,,171.0,81.0,Moderate,5.1,4.5,Maintain,Non-Veg,1888
+33.0,Female,172.0,64.0,Light,5.4,4.1,Gain,Veg,1853
+21.0,Male,152.0,96.0,Active,5.7,1.8,Lose,Non-Veg,2822
+27.0,Male,176.0,83.0,Moderate,4.8,4.3,Gain,Non-Veg,3090
+27.0,Female,174.0,68.0,Very Active,6.9,4.0,Maintain,Non-Veg,2796
+46.0,Female,155.0,69.0,Sedentary,5.8,3.4,Gain,Veg,1821
+18.0,Male,162.0,60.0,Active,9.1,3.4,Gain,Non-Veg,2935
+47.0,Male,180.0,85.0,Light,6.4,2.4,Gain,Non-Veg,2699
+33.0,Female,185.0,88.0,Moderate,8.3,2.7,Gain,Jain,2951
+51.0,Male,154.0,51.0,Sedentary,6.6,3.9,Lose,Veg,1167
+18.0,Female,150.0,47.0,Very Active,8.1,2.9,Maintain,Veg,2197
+34.0,Female,167.0,95.0,Sedentary,6.4,2.4,Gain,Non-Veg,2295
+53.0,Female,153.0,46.0,Light,4.9,4.0,Gain,Vegan,1662
+20.0,Male,167.0,81.0,Light,9.1,2.1,Lose,Non-Veg,1678
+39.0,Male,158.0,55.0,Very Active,8.2,2.2,Lose,Jain,1945
+46.0,Female,164.0,90.0,Very Active,9.2,2.5,Gain,Jain,3215
+38.0,Female,156.0,56.0,Sedentary,7.2,2.6,Maintain,Veg,1421
+38.0,Female,150.0,82.0,Active,6.4,2.7,Gain,Non-Veg,2726
+48.0,Male,171.0,77.0,Light,8.1,2.7,Gain,Non-Veg,2522
+59.0,Male,169.0,86.0,Very Active,9.2,1.7,Maintain,Non-Veg,3090
+43.0,Female,157.0,70.0,Very Active,9.5,1.6,Gain,Veg,2780
+40.0,Male,190.0,83.0,Light,5.8,1.5,Maintain,Jain,2444
+41.0,Male,156.0,76.0,Moderate,5.3,3.1,Gain,Jain,2679
+32.0,Male,173.0,95.0,Active,8.4,3.1,Gain,Non-Veg,3250
+47.0,Male,183.0,106.0,Moderate,6.9,2.5,Gain,Jain,3359
+33.0,Male,185.0,65.0,Moderate,7.3,4.4,Lose,Veg,2252
+31.0,Male,167.0,53.0,Very Active,5.0,4.1,Lose,Vegan,2405
+40.0,Female,179.0,67.0,Moderate,9.1,3.1,Gain,Non-Veg,2513
+,,185.0,66.0,Active,5.9,1.7,Maintain,Veg,2719
+46.0,Female,160.0,55.0,Very Active,4.7,3.7,Maintain,Veg,2202
+52.0,Female,184.0,50.0,Active,7.2,4.5,Lose,Non-Veg,1820
+55.0,Female,189.0,99.0,Light,7.6,3.7,Lose,Veg,2086
+24.0,Male,176.0,52.0,Moderate,8.8,1.4,Lose,Non-Veg,2033
+22.0,Male,175.0,110.0,Moderate,8.0,4.1,Maintain,Veg,3238
+52.0,Female,163.0,99.0,Light,7.0,2.7,Maintain,Vegan,2183
+19.0,Male,160.0,101.0,Active,4.5,4.4,Lose,Non-Veg,3012
+21.0,Male,190.0,84.0,Light,7.2,1.3,Lose,Veg,2122
+26.0,Female,154.0,74.0,Active,4.9,3.8,Gain,Vegan,2135
+57.0,Male,178.0,89.0,Light,7.6,1.5,Maintain,Jain,2368
+35.0,Male,165.0,81.0,Light,8.7,3.3,Maintain,Non-Veg,2006
+49.0,Male,183.0,46.0,Moderate,7.2,2.7,Gain,Veg,2414
+21.0,Female,182.0,81.0,Light,8.3,2.5,Maintain,Veg,3195
+55.0,Male,169.0,100.0,Light,4.8,1.3,Maintain,Veg,2456
+40.0,Male,160.0,92.0,Light,8.2,4.1,Gain,Veg,2444
+41.0,Male,171.0,66.0,Moderate,5.3,3.7,Gain,Veg,2766
+20.0,Female,164.0,81.0,Light,6.6,2.7,Maintain,Veg,2233
+36.0,Female,170.0,56.0,Very Active,6.8,2.3,Maintain,Vegan,2435
+27.0,Male,176.0,48.0,Light,7.2,3.2,Gain,Veg,2294
+21.0,Male,167.0,56.0,Sedentary,9.1,4.1,Gain,Jain,2104
+45.0,Male,171.0,82.0,Moderate,8.8,4.2,Maintain,Vegan,2528
+44.0,Male,184.0,90.0,Light,6.8,2.6,Lose,Veg,2223
+40.0,Female,182.0,51.0,Moderate,5.8,4.5,Gain,Jain,1694
+32.0,Male,162.0,96.0,Moderate,7.9,4.3,Lose,Vegan,2517
+25.0,Male,179.0,51.0,Light,9.1,2.5,Gain,Jain,2375
+57.0,Male,168.0,108.0,Active,8.9,2.7,Gain,Vegan,2891
+40.0,Female,184.0,107.0,Moderate,7.2,2.8,Maintain,Vegan,2881
+32.0,Male,156.0,76.0,Light,5.8,3.9,Gain,Veg,2472
+38.0,Female,187.0,48.0,Moderate,7.2,2.7,Gain,Veg,2312
+40.0,Male,171.0,70.0,Light,6.2,1.6,Maintain,Veg,2109
+43.0,Male,171.0,83.0,Moderate,5.2,1.6,Maintain,Jain,2618
+37.0,Female,158.0,67.0,Sedentary,9.2,4.3,Maintain,Veg,1574
+40.0,Female,160.0,81.0,Moderate,6.7,1.9,Lose,Veg,1558
+,,156.0,106.0,Very Active,7.2,3.4,Lose,Jain,2881
+,,171.0,106.0,Sedentary,6.7,3.3,Gain,Jain,2542
+40.0,Male,153.0,95.0,Very Active,7.2,2.7,Lose,Vegan,3018
+48.0,Male,169.0,95.0,Active,6.9,3.3,Lose,Veg,2755
+60.0,Male,155.0,89.0,Very Active,6.6,3.6,Lose,Veg,2671
+,,157.0,102.0,Light,9.2,1.6,Lose,Non-Veg,2321
+22.0,Male,174.0,95.0,Very Active,6.1,2.0,Maintain,Veg,3672
+40.0,Male,168.0,89.0,Active,7.2,3.3,Gain,Jain,3448
+,,173.0,47.0,Moderate,8.6,2.1,Maintain,Jain,1783
+56.0,Male,162.0,101.0,Light,9.1,2.4,Maintain,Veg,2403
+30.0,Male,153.0,76.0,Sedentary,7.2,4.2,Gain,Non-Veg,2186
+48.0,Female,172.0,65.0,Moderate,8.2,3.4,Maintain,Veg,2052
+19.0,Male,180.0,61.0,Light,7.5,1.0,Maintain,Vegan,2262
+57.0,Female,171.0,58.0,Sedentary,7.1,3.3,Maintain,Vegan,1563
+37.0,Male,159.0,75.0,Sedentary,8.5,3.8,Gain,Veg,2176
+54.0,Male,171.0,73.0,Very Active,7.7,2.7,Gain,Vegan,3214
+29.0,Female,155.0,73.0,Light,5.6,4.1,Maintain,Vegan,2159
+30.0,Male,174.0,83.0,Active,4.8,4.0,Lose,Non-Veg,2758
+,,190.0,52.0,Sedentary,6.8,1.7,Lose,Veg,1382
+30.0,Female,150.0,86.0,Very Active,5.5,2.7,Gain,Non-Veg,3124
+47.0,Female,177.0,62.0,Moderate,9.5,2.7,Lose,Non-Veg,1762
+,,174.0,77.0,Very Active,7.6,3.1,Lose,Veg,2849
+58.0,Male,169.0,98.0,Sedentary,7.8,1.9,Gain,Non-Veg,2402
+51.0,Male,172.0,97.0,Moderate,5.3,2.9,Lose,Jain,2482
+,,164.0,103.0,Moderate,5.8,1.2,Gain,Veg,2450
+59.0,Male,171.0,90.0,Active,9.3,1.9,Gain,Veg,3196
+28.0,Male,158.0,81.0,Light,5.0,4.2,Maintain,Jain,1887
+25.0,Female,178.0,50.0,Sedentary,5.8,2.1,Gain,Non-Veg,1892
+59.0,Male,159.0,51.0,Sedentary,7.2,1.5,Maintain,Jain,1257
+33.0,Male,179.0,101.0,Very Active,6.7,2.7,Maintain,Vegan,3741
+57.0,Female,182.0,71.0,Active,9.3,2.3,Lose,Non-Veg,2118
+18.0,Female,172.0,82.0,Very Active,7.1,3.5,Lose,Non-Veg,2824
+30.0,Female,156.0,98.0,Sedentary,9.1,3.9,Gain,Veg,2273
+55.0,Female,182.0,67.0,Very Active,5.4,3.9,Lose,Jain,2306
+39.0,Female,178.0,62.0,Light,6.6,3.5,Gain,Vegan,2193
+26.0,Male,182.0,86.0,Sedentary,7.2,3.0,Gain,Veg,2547
+21.0,Male,167.0,65.0,Moderate,7.9,1.5,Lose,Vegan,2170
+42.0,Male,182.0,81.0,Sedentary,9.1,2.4,Gain,Vegan,2391
+59.0,Female,187.0,70.0,Light,6.0,1.6,Gain,Veg,2243
+39.0,Female,159.0,50.0,Light,9.1,3.1,Gain,Vegan,1864
+,,155.0,89.0,Light,8.9,3.3,Maintain,Vegan,2032
+33.0,Male,152.0,86.0,Active,9.1,4.3,Gain,Vegan,2846
+30.0,Female,182.0,55.0,Sedentary,5.3,4.3,Gain,Veg,1952
+45.0,Male,171.0,48.0,Active,8.1,1.1,Lose,Veg,1863
+42.0,Male,184.0,45.0,Very Active,4.8,3.6,Lose,Veg,2350
+19.0,Female,160.0,73.0,Light,8.2,3.8,Gain,Vegan,2327
+53.0,Male,157.0,50.0,Sedentary,7.4,2.4,Gain,Veg,1766
+34.0,Male,157.0,68.0,Very Active,8.8,4.0,Gain,Jain,3143
+,,168.0,53.0,Light,6.1,2.6,Gain,Vegan,2252
+59.0,Female,167.0,91.0,Light,7.9,2.2,Maintain,Jain,2059
+30.0,Female,190.0,54.0,Light,9.0,4.0,Gain,Veg,2000
+27.0,Female,175.0,73.0,Very Active,8.2,2.0,Maintain,Veg,2903
+29.0,Male,180.0,90.0,Sedentary,5.6,2.7,Gain,Vegan,1962
+38.0,Male,183.0,80.0,Moderate,7.4,3.0,Maintain,Jain,2726
+49.0,Female,188.0,45.0,Very Active,8.9,2.5,Lose,Veg,2016
+25.0,Female,180.0,106.0,Light,7.5,3.3,Maintain,Veg,2611
+51.0,Female,188.0,47.0,Moderate,9.2,1.8,Gain,Jain,2205
+39.0,Female,188.0,53.0,Light,6.4,1.5,Lose,Non-Veg,1555
+52.0,Male,171.0,106.0,Light,9.0,2.9,Lose,Jain,2139
+54.0,Male,177.0,81.0,Moderate,7.2,1.8,Lose,Vegan,1965
+,,176.0,91.0,Sedentary,5.3,3.3,Maintain,Vegan,2033
+41.0,Female,166.0,84.0,Very Active,6.2,3.5,Gain,Non-Veg,3172
+53.0,Male,160.0,94.0,Sedentary,8.5,3.9,Maintain,Jain,2016
+56.0,Male,161.0,108.0,Active,4.6,4.0,Gain,Vegan,3424
+,,175.0,90.0,Active,6.5,1.7,Lose,Veg,2663
+47.0,Female,186.0,45.0,Moderate,5.4,2.8,Gain,Veg,2186
+42.0,Male,165.0,88.0,Active,7.9,4.1,Lose,Jain,2357
+18.0,Female,165.0,81.0,Sedentary,6.5,3.6,Maintain,Veg,1908
+30.0,Male,165.0,78.0,Light,5.6,3.9,Gain,Veg,2591
+48.0,Female,189.0,85.0,Active,9.0,2.7,Gain,Vegan,3112
+52.0,Male,182.0,81.0,Active,8.8,3.7,Maintain,Veg,3058
+,,165.0,79.0,Active,9.3,2.2,Lose,Jain,2107
+24.0,Male,165.0,100.0,Active,5.5,3.8,Gain,Non-Veg,3319
+34.0,Male,175.0,57.0,Light,4.8,2.7,Maintain,Veg,2061
